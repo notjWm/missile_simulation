@@ -6,7 +6,7 @@ d2r = pi / 180;
 v_t = 1000;
 x_t0 = 100;
 z_t0 = 20000;
-l_t0 = -2.5 * d2r;
+l_t0 = -5.5 * d2r;
 
 % Missile Parameters
 x_m0 = 2000;
